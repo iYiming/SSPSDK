@@ -1,0 +1,6 @@
+framework module CSJPlugin {
+  umbrella header "CSJPlugin.h"
+
+  export *
+  module * { export * }
+}

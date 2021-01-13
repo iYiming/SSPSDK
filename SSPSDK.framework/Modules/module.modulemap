@@ -1,0 +1,6 @@
+framework module SSPSDK {
+  umbrella header "SSPSDK.h"
+
+  export *
+  module * { export * }
+}

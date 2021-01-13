@@ -1,0 +1,6 @@
+framework module GDTPlugin {
+  umbrella header "GDTPlugin.h"
+
+  export *
+  module * { export * }
+}

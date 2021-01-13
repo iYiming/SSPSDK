@@ -1,0 +1,6 @@
+framework module AdMobPlugin {
+  umbrella header "AdMobPlugin.h"
+
+  export *
+  module * { export * }
+}
